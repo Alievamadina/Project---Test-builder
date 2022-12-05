@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Project---Test-builder%20/static/css/main.7831a360.css",
+    "main.js": "/Project---Test-builder%20/static/js/main.828ae114.js",
+    "static/media/store.jpg": "/Project---Test-builder%20/static/media/store.e189ff6edb6b5547ab2a.jpg",
+    "index.html": "/Project---Test-builder%20/index.html",
+    "main.7831a360.css.map": "/Project---Test-builder%20/static/css/main.7831a360.css.map",
+    "main.828ae114.js.map": "/Project---Test-builder%20/static/js/main.828ae114.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7831a360.css",
+    "static/js/main.828ae114.js"
+  ]
+}
