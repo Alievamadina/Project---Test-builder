@@ -1,0 +1,14 @@
+.div {
+  padding: 20px;
+  justify-content: center;
+  margin: 50px;
+  background-color: #9ebaab;
+  width: 750px;
+  height: 150px;
+  border-radius: 25px;
+  border: 5px solid rgb(117, 227, 216);
+}
+.div-2 {
+  width: 20px;
+  height: 20px;
+}
